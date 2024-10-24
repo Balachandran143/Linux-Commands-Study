@@ -349,4 +349,5 @@ find <directory> -name <file_name>
 
 **Output:**
 
-## Result
+## Result:
+Therrfore the Linux commands executed sucessfully.
