@@ -18,7 +18,8 @@ The `ls` command is used to display a list of contents in a directory.
 ls
 ```
 
-**Output:**
+## Output:
+![Screenshot 2024-10-24 113240](https://github.com/user-attachments/assets/97b14826-0ef3-431e-81b1-191c9d4ae1e1)
 
 ### 2. `pwd` Command
 
@@ -29,7 +30,8 @@ The `pwd` command displays the location of the current working directory.
 pwd
 ```
 
-**Output:**
+## Output:
+![Screenshot 2024-10-24 113248](https://github.com/user-attachments/assets/91d7d226-b516-408b-aa90-6b556c7492fa)
 
 ### 3. `mkdir` Command
 
@@ -40,7 +42,9 @@ The `mkdir` command is used to create a new directory.
 mkdir <directory_name>
 ```
 
-**Output:**
+## Output:
+![Screenshot 2024-10-24 113256](https://github.com/user-attachments/assets/d9ca6163-1f47-44f1-9b1d-c9c54e72ec73)
+
 
 ### 4. `rmdir` Command
 
@@ -51,7 +55,8 @@ The `rmdir` command is used to delete a directory.
 rmdir <directory_name>
 ```
 
-**Output:**
+## Output:
+![Screenshot 2024-10-24 113303](https://github.com/user-attachments/assets/d057504c-f520-4b65-897c-597b3ccf0ead)
 
 ### 5. `cd` Command
 
@@ -62,7 +67,9 @@ The `cd` command is used to change the current directory.
 cd <directory_name>
 ```
 
-**Output:**
+## Output:
+![Screenshot 2024-10-24 113312](https://github.com/user-attachments/assets/88985005-9fe9-4c51-bb35-45d52aa65c6b)
+
 
 ### 6. `cat` Command
 
@@ -73,7 +80,8 @@ The `cat` command is used to create, display, and concatenate files.
 cat [OPTION]... [FILE]...
 ```
 
-**Output:**
+## Output:
+![Screenshot 2024-10-24 113325](https://github.com/user-attachments/assets/ab54bf7d-7df9-4941-95b2-5ebb779cdd54)
 
 ### 7. `cp` Command
 
@@ -84,7 +92,8 @@ The `cp` command is used to copy files or directories.
 cp <source_file> <destination_file>
 ```
 
-**Output:**
+## Output:
+![Screenshot 2024-10-24 113338](https://github.com/user-attachments/assets/304bd2c0-0177-4eb6-9800-cf562f22fd8e)
 
 ### 8. `gedit` Command
 
