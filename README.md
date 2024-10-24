@@ -350,4 +350,4 @@ find <directory> -name <file_name>
 **Output:**
 
 ## Result:
-Therefore the Linux commands executed sucessfully.
+The Linux commands executed sucessfully.
